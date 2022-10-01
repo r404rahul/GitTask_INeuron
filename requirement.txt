@@ -1,0 +1,4 @@
+## Task should have a proper open source structure
+## Proper Readme file
+## Add collaborator
+## host github
